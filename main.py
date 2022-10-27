@@ -36,8 +36,8 @@ def get_driver():
 
 def send_email(user_email):
 
-    from_email = 'd_pakenham@yahoo.co.uk'
-    from_password = 'yflmvhqfjxztrmce'
+    from_email = <EMAIL>
+    from_password = <PASSWORD>
     to_email = user_email
     subject = 'Hong Kong Dollar versus Pound Sterling: live rates'
     content = 'Please see attachments for the relevant data.'
